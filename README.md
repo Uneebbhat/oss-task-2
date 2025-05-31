@@ -21,6 +21,7 @@ A professional CV builder web application that helps users create and maintain t
 ## 📸 Screenshots
 
 ![Main Issue Image](issue.jpeg)
+![Project Summary](Project_Report_Summary.docx)
 
 ## 🛠️ Technologies Used
 
